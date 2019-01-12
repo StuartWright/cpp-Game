@@ -1,0 +1,40 @@
+﻿  3dsLoader.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\3dsloader.cpp(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uni\year 2\c++\c++game\opengl_sdl base project\3dsloader.cpp(23): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2459): note: see declaration of 'fileno'
+  Camera.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\camera.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GameScreen.cpp
+  GameScreenLevel1.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\camera.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni\year 2\c++\c++game\opengl_sdl base project\gamescreenlevel1.cpp(129): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\gamescreenlevel1.cpp(156): warning C4018: '<': signed/unsigned mismatch
+  GameScreenLevel2.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\camera.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni\year 2\c++\c++game\opengl_sdl base project\gamescreenlevel2.cpp(127): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\gamescreenlevel2.cpp(159): warning C4018: '<': signed/unsigned mismatch
+  GameScreenManager.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\camera.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LoseScreen.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\losescreen.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\losescreen.cpp(80): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\losescreen.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  MenuScreen.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\menuscreen.cpp(26): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\menuscreen.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\menuscreen.cpp(67): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\menuscreen.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  Object3DS.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\object3ds.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  Pryamid.cpp
+  Source.cpp
+  Texture2D.cpp
+  WinScreen.cpp
+e:\uni\year 2\c++\c++game\opengl_sdl base project\winscreen.cpp(33): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\winscreen.cpp(89): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\winscreen.cpp(99): warning C4018: '<': signed/unsigned mismatch
+e:\uni\year 2\c++\c++game\opengl_sdl base project\winscreen.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OpenGL_SDL Base Project.vcxproj -> E:\uni\year 2\C++\C++Game\Debug\OpenGL_SDL Base Project.exe
